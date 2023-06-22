@@ -1,3 +1,3 @@
 # Melonbug brand guide and assets
 
-© 2023 Melonbug LLC
+© 2023 Melonbug, LLC
