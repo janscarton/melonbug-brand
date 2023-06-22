@@ -1,2 +1,3 @@
-# melonbug-brand
-Melonbug brand guide and assets
+# Melonbug brand guide and assets
+
+© 2023 Melonbug LLC
